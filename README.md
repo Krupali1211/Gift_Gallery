@@ -9,3 +9,6 @@ For making it more attractive applied CSS3 in this.
 This static website displays the redirection of the webpages and main important part is the animation and the visual of the images.
 There is also sign in and registration page.
 It represents one table for comparition and the description of the particular item.
+
+
+
